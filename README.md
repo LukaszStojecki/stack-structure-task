@@ -22,7 +22,7 @@ $ mvn spring-boot:run
 
 ## Przykładowy wynik
 
-[2, 6, 4]
-2
-[6, 4]
-4
+- [2, 6, 4]
+- 2
+- [6, 4]
+- 4
